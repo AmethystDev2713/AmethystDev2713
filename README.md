@@ -8,3 +8,7 @@ So I slowed WAY down and learned HTML from html.com, and not much longer, I had 
 document.getElementById("btn").onclick = function() { alert("RRRRRRRRRR!!!") }
 
 But there was one mistake which drove me crazy every time I typed something like this: I kept typing Document.GetElementById instead of document.getElementById. Hilarious now that I look back on it. After that, CSS hoped on the train. By now, I have become highly proficient in designing and programming websites. My most recent project being a pixel art program (It's hidden just so you know)
+
+## Stage 2: Creating Apps
+
+This is obviously more difficult/advanded than coding websites/web apps. To start my app/software development journey, I started learning C# and used Microsoft Visual Studio as my IDE/Compiler. I don't remember from the top of my head what it was about, but after making sure my code was free of errors, I compiled my app, and it worked! I was so proud that my app finally worked, but it didn't last long, because when I went into file explorer and launched, it only stayed open for seemingly 1ms. I was very confused as to why
