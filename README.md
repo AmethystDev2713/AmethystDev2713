@@ -36,22 +36,15 @@ The purpose of the bootloader is to load the kernel into RAM and tell the comput
 I have nowhere enough experience in programming through my long programming journey to make a kernel, let alone a bootloader. I don't want to get even close to x86 or x64 Assembly, it terrifies me! (screams yet again) Whearas something like 8-Bit 6502 assembly is nowhere near as horrifying. Here's a code sample if you're curious:
 
 lda #$02
-
 ldx #$00
-
 ldy #$00
 
 loop:
   sta $0200,x
-  
   adc #$04
-  
   sta $0201,x
-  
   sty $0300
-  
   inx
-  
   jmp loop
 
 
