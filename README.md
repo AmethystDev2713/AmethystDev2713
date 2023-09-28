@@ -41,7 +41,9 @@ ldx #$00
 
 ldy #$00
 
+
 loop:
+
   sta $0200,x
   
   adc #$04
