@@ -29,29 +29,37 @@ The purpose of the bootloader is to load the kernel into RAM and tell the comput
 
 *Kernel -->* This is the brain of your operating system, and handels things like memory management (giving programs space to run/execute from, giving files space to load into so the OS can perform actions on them requested by the user or as needed by the OS), outputting to the display/monitor, disk access (load/editing/saving files to the disk), and much more.
 
-*User programs/functionality -->* Now you have an OS which can boot (start) and can do what it needs alongside what the programmer wants it to be capable of doing, you need a program which can execute functions made by the kernel upon the user's request, which can be anything from writing notes to a text file, to loading and playing a video game! This program is usually started once the kernel is fully loaded and ready to perform what it needs to do. In my case, this user program will be a CLI program, because, like I said earlier, CLI apps are very easy to code, and plus, they give a retro vibe, as that's what OSes from the '70s to the early '90s were like. Famous examples include BASIC and MS-DOS. My OS will be more similar to MS-DOS (even though I have more experience with BASIC, specifically Commodore BASIC) because it has a simplar interface than Commodore BASIC. In fact, it looks almost the same as Command Prompt in Windows OS! Speaking of Windows OS, the home screen is pretty much a user program itself! Also, you're using a user program right now to read this very extensive document!
+*User programs/functionality -->* Now you have an OS which can boot (start) and can do what it needs alongside what the programmer wants it to be capable of doing, you need a program which can execute functions made by the kernel upon the user's request, which can be anything from writing notes to a text file, to loading and playing a video game! This program is usually started once the kernel is fully loaded and ready to perform what it needs to do. In my case, this user program will be a CLI program, because, like I said earlier, CLI apps are very easy to code, and plus, they give a retro vibe, as that's what OSes from the '70s to the early '90s were like. Famous examples include BASIC and MS-DOS. My OS will be more similar to MS-DOS (even though I have more experience with BASIC, specifically Commodore BASIC) because it has a simpler interface than Commodore BASIC. In fact, it looks almost the same as Command Prompt in Windows OS! Speaking of Windows OS, the home screen is pretty much a user program itself! Also, you're using a user program right now to read this very extensive document!
 
 ### 3.2: What I want from my OS
 
 I have nowhere enough experience in programming through my long programming journey to make a kernel, let alone a bootloader. I don't want to get even close to x86 or x64 Assembly, it terrifies me! (screams yet again) Whearas something like 8-Bit 6502 assembly is nowhere near as horrifying. Here's a code sample if you're curious:
 
 lda #$02
+
 ldx #$00
+
 ldy #$00
+
 loop:
   sta $0200,x
+  
   adc #$04
+  
   sta $0201,x
+  
   sty $0300
+  
   inx
+  
   jmp loop
+
 
 This is a simple program which produced a very satisfying animation of colors when compiled with Skilldrick's 6502js Assembler [https://github.com/skilldrick/easy6502/tree/gh-pages]
 
 How can I make an OS if I don't want to make a bootloader and can't make a kernel? Simple: Use GRUB and the Linux Kernel! Both of them are open source software used in making many, many operating systems, such as Debian, Ubuntu, Zorin, and many others. But that's only the Bootloader (GRUB) and the Kernel (The Linux Kernel) situated, what about the user program? I make it myself! I can make CLI user programs, so that's not a big deal. If I didn't even make the user program, the simplest part and the part which makes the OS yours, I could not have called it mine! While it's going to be super difficult to make my OS, I'm sure it will be a fun and very rewarding project once I get it up and running.
 
 That's all I'm going to say about OS Development. The rest about it is a secret (I'm all about making sure my work isn't stolen or plagiarized)
-
 
 
 ## Thanks for your time. If you have and questions, contact me at rotpserver@outlook.com (my personal server administrator account)
