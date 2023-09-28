@@ -1,5 +1,4 @@
-# AmethystDev2713
-# Evolution of my coding skills
+# AmethystDev2713: Evolution of my coding skills
 ## Stage 1: Simple websites
 
 My coding story begins in the spring of 2021. At the time, I was very curious on how websites and apps worked. So I copied some C# code from a video in Notepad, saved it as an .exe file, and expected it to run. I would get very pissed off when it kept saying "This app can't run on your PC". Oh how stupid I used to be...
