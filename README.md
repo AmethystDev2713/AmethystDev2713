@@ -7,7 +7,7 @@ So I slowed WAY down and learned HTML from html.com, and not much longer, I had 
 
 document.getElementById("btn").onclick = function() { alert("RRRRRRRRRR!!!") }
 
-But there was one mistake which drove me crazy every time I typed something like this: I kept typing Document.GetElementById instead of document.getElementById. Hilarious now that I look back on it. After that, CSS hoped on the train. By now, I have become highly proficient in designing and programming websites. My most recent project being a pixel art program (It's hidden just so you know)
+But there was one mistake which drove me crazy every time I typed something like this: I kept typing Document.GetElementById instead of document.getElementById. Hilarious now that I look back on it. After that, CSS hopped on the train. By now, I have become highly proficient in designing and programming websites. My most recent project being a pixel art program (It's hidden just so you know)
 
 ## Stage 2: Creating Apps
 
