@@ -1,2 +1,2 @@
-### Evolution of my coding skills
-## Stage 1:
+# Evolution of my coding skills
+## Stage 1: Simple websites
