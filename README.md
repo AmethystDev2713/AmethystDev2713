@@ -65,3 +65,5 @@ That's all I'm going to say about OS Development. The rest about it is a secret 
 
 
 ## Thanks for your time. If you have and questions, contact me at rotpserver@outlook.com (my personal server administrator account)
+
+P.S. I rarely make public repos for the same reason I am not showing off my OS repo, but occasionally I do. Feel free to check them out
