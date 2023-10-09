@@ -69,4 +69,4 @@ That's all I'm going to say about OS Development. The rest about it is a secret 
 P.S. I rarely make public repos for the same reason I am not showing off my OS repo, but occasionally I do. Feel free to check them out
 
 
-![GitHub Profile Views Test](https://komarev.com/ghpvc/?username=AmethystDev2713&color=DAA520)
+![GitHub Profile Views Test](https://profile-counter.glitch.me/AmethystDev2713/count.svg)
