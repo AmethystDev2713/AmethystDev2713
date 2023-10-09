@@ -69,6 +69,6 @@ That's all I'm going to say about OS Development. The rest about it is a secret 
 P.S. I rarely make public repos for the same reason I am not showing off my OS repo, but occasionally I do. Feel free to check them out
 
 
-Profile Views Counter (the first 8 are of me)
+Profile Views Counter (the first 17 are of me)
 
 ![GitHub Profile Views Test](https://githubviews.tolfix.com/?id=AmethystDev2713)
