@@ -70,4 +70,5 @@ P.S. I rarely make public repos for the same reason I am not showing off my OS r
 
 
 Profile Views Counter
+
 ![GitHub Profile Views Test](https://profile-counter.glitch.me/AmethystDev2713/count.svg)
