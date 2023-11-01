@@ -73,8 +73,3 @@ This is a simple program which produced a very satisfying animation of colors wh
 How can I make an OS if I don't want to make a bootloader and can't make a kernel? Simple: Use GRUB and the Linux Kernel! Both of them are open source software used in making many, many operating systems, such as Debian, Ubuntu, Zorin, and many others. But that's only the Bootloader (GRUB) and the Kernel (The Linux Kernel) situated, what about the user program? I make it myself! I can make CLI user programs, so that's not a big deal. If I didn't even make the user program, the simplest part and the part which makes the OS yours, I could not have called it mine! While it's going to be super difficult to make my OS, I'm sure it will be a fun and very rewarding project once I get it up and running.
 
 That's all I'm going to say about OS Development. The rest about it is a secret (I'm all about making sure my work isn't stolen or plagiarized)
-
-
-## Thanks for your time. If you have and questions, contact me at rotpserver@outlook.com (my personal server administrator account)
-
-P.S. I rarely make public repos for the same reason I am not showing off my OS repo, but occasionally I do. Feel free to check them out
