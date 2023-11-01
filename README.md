@@ -1,4 +1,15 @@
-# AmethystDev2713: Evolution of my coding skills
+# Who is AmethystDev2713?
+
+Hi, I'm a young developer with skills in website development, app development, and am currently learning OS programming. A few things to know about me are:
+
+- I am using GitHub for personal uses and therefore rarely make public repos. It's even rarer than a super blue moon to see me liscense a public repo for your own purposes
+- Unless I say so in a liscense or readme document, **nobody is allowed to copy, edit, fork, clone, reproduce, distribute, or creating derivative works from anything and everything in my public repos**
+
+To see my public repos, look at the repos tab on my profile
+
+If you're curious, you can read my programming story below
+
+# Evolution of my coding skills
 ## Stage 1: Simple websites
 
 My coding story begins in the spring of 2021. At the time, I was very curious on how websites and apps worked. So I copied some C# code from a video in Notepad, saved it as an .exe file, and expected it to run. I would get very pissed off when it kept saying "This app can't run on your PC". Oh how stupid I used to be...
