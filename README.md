@@ -3,6 +3,7 @@
 Hi, I'm a young developer with skills in website development, app development, and am currently learning OS programming and electronics. A few things to know about me are:
 
 - I am using GitHub for personal uses and therefore rarely make public repos. It's even rarer than a super blue moon to see me liscense a public repo for your own purposes
+    - 11/20/2023: Chance of this repo by me being liscenced: [Let's Make A CPU](https://github.com/AmethystDev2713/Lets-Make-A-CPU)
 - Unless I say so in a liscense or readme document, **nobody is allowed to copy, edit, fork, clone, reproduce, distribute, or creating derivative works from anything and everything in my public repos**
 
 To see my public repos, look at the repos tab on my profile
