@@ -2,7 +2,7 @@
 
 Hi, I'm a young developer with skills in front-end development, some C++ programming, and am currently learning OS programming and electronics. A few things to know about me are:
 
-- I am using GitHub for personal uses and therefore rarely make public repos. It's even rarer than a super blue moon to see me liscense a public repo for your own purposes
+- I am using GitHub for personal uses and therefore rarely make public repos, much less would I even think about liscensing one for your own purposes
 - Unless I say so in a liscense or readme document, **nobody is allowed to copy, edit, fork, clone, reproduce, distribute, or create derivative works from anything and everything in my public repos**
 
 To see my public repos, look at the repos tab on my profile
