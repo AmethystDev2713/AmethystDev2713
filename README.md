@@ -2,7 +2,9 @@
 
 Hi, I'm a young developer with skills in front-end development, some C++ programming, and am currently learning OS programming and electronics.
 
-General Information about me:
+![Favorite Languages](https://img.shields.io/badge/Favorite%20Languages-JavaScript%20&%20C++-007C3C)&nbsp;&nbsp;![My Field](https://img.shields.io/badge/My%20field-Front--End%20Development-007C3C)&nbsp;&nbsp;![Experience](https://img.shields.io/badge/Experience-1%20year%20of%20activity-007C3C)
+
+Important Information about me:
 
 🔒 I am using GitHub for personal uses and therefore rarely make public repos, much less would I even think about licensing one for your purposes
 
