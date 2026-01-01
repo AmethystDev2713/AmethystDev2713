@@ -6,6 +6,10 @@ Hello. I'm a young developer with knowledge in many divisions of computer scienc
 
 ## Notices
 
-🔒 I am using GitHub for personal uses and therefore rarely make public repos.
+🔒 I am using GitHub for personal uses and therefore tend not to make public repos.
 
 ⚠️ Unless stated in a license or README document, **nobody is allowed to copy, edit, fork, clone, reproduce, distribute, or create derivative works from anything and everything in my public repos.**
+
+## Updates
+
+Happy 2026 to all! I've begun writing an eBook on GitHub, hoping to finish it by 9/1/26. See my MOS-TEDC repo for more information.
