@@ -12,4 +12,4 @@ Hello. I'm a young developer with knowledge in many divisions of computer scienc
 
 ## Updates
 
-Happy 2026 to all! I've begun writing an eBook on GitHub, hoping to finish it by 9/1/26, which is when its repo will go public.
+My second eBook scheduled to be released on 9/1/2026 has been paused due to my first eBook, "Let's Make A CPU" (see my GitHub repo with that title), which is incomplete, appearently still having viewers, which has motivated me to finish it, hopefully by the end of this summer. Thanks to those who starred it & viewers for your support!
